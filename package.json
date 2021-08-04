@@ -1,0 +1,29 @@
+{
+  "name": "team_gen",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/untitledeveloper/teamgen.git"
+  },
+  "author": "Teoman Aydogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/untitledeveloper/teamgen/issues"
+  },
+  "homepage": "https://github.com/untitledeveloper/teamgen#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
